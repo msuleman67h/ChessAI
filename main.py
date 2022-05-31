@@ -1,3 +1,4 @@
+#!/home/kira/drives/samsung-ssd/Programming/Pycharm/ChessAI/venv/bin/python
 import logging
 
 import yaml
