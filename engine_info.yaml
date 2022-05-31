@@ -1,0 +1,6 @@
+id name: Killer Queen 0.0.5
+id author: Yoshikage Kira
+option name:
+  - UCI_Elo type spin default 1000 min 500 max 5000
+setoption name:
+  - UCI_Elo value 1000
